@@ -16,5 +16,5 @@ console.log(firstWord("12345"));
 console.log(firstWord(""));
 // Do not change the code below
 
-//const s = prompt("Enter String:");
-//alert(firstWord(s));
+const s = prompt("Enter String:");
+alert(firstWord(s));
